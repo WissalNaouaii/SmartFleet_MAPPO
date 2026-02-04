@@ -8,9 +8,7 @@ import random
 import time
 from collections import deque, defaultdict
 import json
-
 # ==================== CONFIGURATION ====================
-
 @dataclass
 class SimConfig:
     """Simulation configuration"""
@@ -1108,3 +1106,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
