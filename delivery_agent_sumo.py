@@ -2,7 +2,6 @@
 ================================================================================
 SMARTFLEET: INTEGRATED RL MULTI-AGENT DELIVERY SYSTEM WITH SUMO
 ================================================================================
-
 This is the integrated version that connects your RL agents to the real 
 Tunis SUMO map. Agents now drive on actual roads with real traffic!
 
