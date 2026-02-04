@@ -1,0 +1,20 @@
+# SmartFleet MAPPO Training Requirements
+# ======================================
+
+# Core ML
+numpy>=1.21.0
+gymnasium>=0.29.0
+torch>=2.0.0
+
+# Ray RLlib for MAPPO
+ray[rllib]>=2.9.0
+
+# Visualization
+matplotlib>=3.5.0
+
+# Optional: SUMO integration
+# Note: SUMO must be installed separately
+# Download from: https://eclipse.dev/sumo/
+
+# Optional: Weights & Biases for experiment tracking
+# wandb>=0.15.0
