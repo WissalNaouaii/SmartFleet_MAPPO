@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<additional>
+    <!-- Delivery Vehicle Types for SmartFleet Simulation -->
+    
+    <!-- Truck - Large capacity, slower -->
+    <vType id="delivery_truck" 
+           vClass="truck"
+           length="8.0"
+           width="2.5"
+           height="3.5"
+           minGap="2.5"
+           maxSpeed="22.22"
+           accel="1.5"
+           decel="4.0"
+           color="1,0.5,0"
+           guiShape="truck"/>
+    
+    <!-- Van - Medium capacity -->
+    <vType id="delivery_van" 
+           vClass="passenger"
+           length="5.0"
+           width="2.0"
+           height="2.2"
+           minGap="2.0"
+           maxSpeed="30.56"
+           accel="2.5"
+           decel="5.0"
+           color="0,0.5,1"
+           guiShape="delivery"/>
+    
+    <!-- Standard car (fallback) -->
+    <vType id="car" 
+           vClass="passenger"
+           length="4.5"
+           width="1.8"
+           height="1.5"
+           minGap="2.0"
+           maxSpeed="33.33"
+           accel="2.9"
+           decel="7.5"
+           color="0.5,0.5,0.5"
+           guiShape="passenger"/>
+    
+    <!-- Drone representation (uses van visually but different color) -->
+    <vType id="delivery_drone" 
+           vClass="passenger"
+           length="1.0"
+           width="1.0"
+           height="0.5"
+           minGap="1.0"
+           maxSpeed="44.44"
+           accel="5.0"
+           decel="8.0"
+           color="0,1,0"
+           guiShape="passenger/sedan"/>
+    
+    <!-- Robot representation -->
+    <vType id="delivery_robot" 
+           vClass="passenger"
+           length="1.5"
+           width="1.0"
+           height="1.0"
+           minGap="1.0"
+           maxSpeed="8.33"
+           accel="1.0"
+           decel="3.0"
+           color="1,0,1"
+           guiShape="passenger/sedan"/>
+</additional>
