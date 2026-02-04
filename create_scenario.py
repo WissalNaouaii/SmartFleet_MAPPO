@@ -2,9 +2,8 @@
 ================================================================================
 SMARTFLEET - CREATE CUSTOM DELIVERY SCENARIO
 ================================================================================
-
 This script helps you create a working delivery scenario by:
-1. Finding the best connected area in your network
+1. Finding the best-connected area in your network
 2. Automatically selecting depot, pickup, and delivery locations
 3. Testing that all routes work
 4. Generating all necessary files
