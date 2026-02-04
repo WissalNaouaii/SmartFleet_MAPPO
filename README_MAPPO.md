@@ -279,7 +279,7 @@ If you use this code in your research, please cite:
 
 ## Author
 
-**Maram Ouelhazi**
+**Wissal Naouaii**
 - IEEE RAS x VTS SmartFleet Challenge
 - Faculty of Sciences of Tunis (FST)
 - IoT & Embedded Systems
