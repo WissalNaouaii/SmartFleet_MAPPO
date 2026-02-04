@@ -2,7 +2,6 @@
 ================================================================================
 SMARTFLEET: QUICK DEMO (No Ray Required)
 ================================================================================
-
 This script demonstrates the SmartFleet system without requiring Ray RLlib.
 It runs the greedy baseline and shows expected metrics.
 
