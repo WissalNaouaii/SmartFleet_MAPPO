@@ -1,0 +1,10 @@
+{
+  "n_episodes": 3,
+  "mean_reward": 1162.8726911804836,
+  "std_reward": 56.32575874267713,
+  "mean_deliveries": 112.66666666666667,
+  "std_deliveries": 5.2493385826745405,
+  "mean_on_time_rate": 1.0,
+  "mean_energy_per_delivery": 13.779966135519713,
+  "mean_distance_km": 46.319146333399175
+}
