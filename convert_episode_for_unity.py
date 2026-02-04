@@ -6,7 +6,6 @@ Converts the Python simulation output to Unity-compatible JSON format
 Usage:
     python convert_episode_for_unity.py episode_1_log.json episode_unity.json
 """
-
 import json
 import re
 import sys
