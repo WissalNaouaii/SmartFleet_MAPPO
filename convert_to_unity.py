@@ -2,7 +2,6 @@
 """
 Convert SmartFleet episode log to Unity-compatible format
 """
-
 import json
 import re
 import sys
