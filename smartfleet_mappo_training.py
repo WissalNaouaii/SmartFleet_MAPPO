@@ -2,7 +2,6 @@
 ================================================================================
 SMARTFLEET: MAPPO TRAINING MODULE
 ================================================================================
-
 Multi-Agent Proximal Policy Optimization (MAPPO) training for the SmartFleet
 delivery system with SUMO integration.
 
