@@ -14,7 +14,6 @@ NET_FILE = "finished_map_cleaning.net.xml"
 OUTPUT_FILE = "tunis_final_traffic.rou.xml"
 NUM_VEHICLES = 80  # Reduced to avoid restrictions
 SIM_DURATION = 3600
-
 print("="*70)
 print("GENERATING FINAL VALIDATED TUNIS TRAFFIC")
 print("="*70)
